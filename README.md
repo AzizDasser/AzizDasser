@@ -1,5 +1,7 @@
 # Aziz Dasser - 💻 Software Engineer | Web & Mobile Dev Enthusiast | Tech Innovator 🚀
-![Aziz Dasser](aziz banner2.png)
+
+![Aziz Dasser](./aziz banner2.png)
+
 Hey there! 👋 I'm Aziz Dasser, a software engineer with a passion for crafting sleek web, e-commerce, and mobile solutions. I love pushing the boundaries of what's possible with cutting-edge tech to build high-performance, top-quality apps.
 
 ## 🛠️ Tech Stack
