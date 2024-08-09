@@ -1,5 +1,5 @@
-# Aziz Dasser - Software Engineer 🚀
-
+# Aziz Dasser - 💻 Software Engineer | Web & Mobile Dev Enthusiast | Tech Innovator 🚀
+![Aziz Dasser](aziz banner2.png)
 Hey there! 👋 I'm Aziz Dasser, a software engineer with a passion for crafting sleek web, e-commerce, and mobile solutions. I love pushing the boundaries of what's possible with cutting-edge tech to build high-performance, top-quality apps.
 
 ## 🛠️ Tech Stack
@@ -7,9 +7,7 @@ Hey there! 👋 I'm Aziz Dasser, a software engineer with a passion for crafting
 - **Languages:** Java, Python, PHP, JavaScript, Dart
 - **Web Dev:** HTML, CSS, TypeScript, Angular, React, Laravel, Symfony
 - **Databases:** Oracle, MySQL, MongoDB
-- **Tools:** Docker, Jenkins, Maven, Git, VSCode, IntelliJ IDEA
-- **OS:** Windows, MacOS, Linux
-
+  
 ## 🔥 Featured Projects
 
 ### [Code Sage Connect - VSCode Extension](https://github.com/aziz-dasser/code-sage-connect)
@@ -22,6 +20,9 @@ Hey there! 👋 I'm Aziz Dasser, a software engineer with a passion for crafting
 👥 Created a web app for managing members, events, and all the activities that keep associations thriving.
 
 ## 🌟 Let's Connect!
+
+📬 Let’s connect and create something amazing together!
+🌍 Based in Rabat, Morocco | 🌐 Open to global opportunities
 
 I’m always excited to collaborate on new projects or just chat about tech. Hit me up on LinkedIn!
 
